@@ -1,4 +1,4 @@
-package com.example.simpleanimation;
+package com.example.simpledrawfunctions;
 
 import org.junit.Test;
 

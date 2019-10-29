@@ -1,4 +1,4 @@
-package com.example.simpleanimation;
+package com.example.simpledrawfunctions;
 
 import androidx.appcompat.app.AppCompatActivity;
 
